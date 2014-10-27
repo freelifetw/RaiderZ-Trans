@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<maiet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STR key="GAIN_BUBBLE" string="{0}効果まで{1}%。" />
+  <STR key="GAIN_EXP" string="{0}の経験値を獲得しました。" />
+  <STR key="GAIN_EXP_WITH_FATIGUE" string="{0}の経験値を獲得しました。" />
+  <STR key="IN_PVP_AREA_NARRATION" string="PvP地域に進入しました。" />
+  <STR key="OBTAIN_SILVER" string="{0}を獲得しました。" />
+  <STR key="OUT_PVP_AREA_NARRATION" string="PvP地域から退出しました。" />
+  <STR key="SUBTRACT_SILVER" string="{0}が減りました。" />
+  <STR key="YOUTHSELFREGULATION_1" string="接続後1時間が経過しました。" />
+  <STR key="YOUTHSELFREGULATION_2" string="接続後2時間が経過しました。" />
+  <STR key="YOUTHSELFREGULATION_3" string="接続後3時間が経過しました。" />
+  <STR key="YOUTHSELFREGULATION_4" string="接続後4時間が経過しました。" />
+  <STR key="YOUTHSELFREGULATION_5" string="接続後5時間が経過しました。 " />
+  <STR key="YOUTHSELFREGULATION_6" string="接続後6時間が経過しました。真の冒険家は、無理をしないものです。しばらく休息をとりましょう。" />
+  <STR key="YOUTHSELFREGULATION_7" string="接続後{0}時間が経過しました。体調を崩さないように、しばらく休息をとってください。" />
+</maiet>

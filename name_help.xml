@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<maiet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STR key="HELP_TITLE_101" string="[W],[A],[S],[D]キーとマウスを利用し、キャラクターを移動させることができます。" />
+  <STR key="HELP_TITLE_102" string="[E]キーでNPCと会話をすることができます。" />
+  <STR key="HELP_TITLE_103" string="マウスを左クリックすることでモンスターを攻撃することがきます。" />
+  <STR key="HELP_TITLE_104" string="[E]キーを押すと倒した敵から戦利品を獲得することができます。" />
+  <STR key="HELP_TITLE_105" string="[F]キーで武器の出し入れができます。" />
+  <STR key="HELP_TITLE_106" string="[Ctrl]キーでマウスポインターを表示することができます。" />
+  <STR key="HELP_TITLE_107" string="[R]キーを押すとキャラクターが自動的に移動します。" />
+  <STR key="HELP_TITLE_108" string="登録されたクエスト項目を選択するとマップに目的地が表示されます。" />
+  <STR key="HELP_TITLE_109" string="モンスターの部位を破壊し、アイテムとして獲得することができます。" />
+  <STR key="HELP_TITLE_110" string="[W]キーを押した後[マウス左クリック]を押すことで前進攻撃ができます。" />
+  <STR key="HELP_TITLE_111" string="[S]キーを押した後[マウス左クリック]を押すことで回避攻撃ができます。" />
+  <STR key="HELP_TITLE_112" string="[Shift]キーと[W],[A],[S],[D]キーを同時に押すことで回避行動ができます。" />
+  <STR key="HELP_TITLE_113" string="数字キーを複数回押すと連続攻撃ができます。" />
+  <STR key="HELP_TITLE_114" string="[E]キーを押すと地面に落ちているアイテムを獲得することができます。" />
+  <STR key="HELP_TITLE_115" string="ガード：マウスを右クリックすることで敵の攻撃をガードします。" />
+  <STR key="HELP_TITLE_200" string="数字キーでスキルを使用することができます。" />
+  <STR key="HELP_TITLE_2002" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}成長記録{/COLOR} 追加！{/INDENT}" />
+  <STR key="HELP_TITLE_2003" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}成長記録{/COLOR} 追加！{/INDENT}" />
+  <STR key="HELP_TITLE_2004" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}成長記録{/COLOR} 追加！{/INDENT}" />
+  <STR key="HELP_TITLE_3003" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}冒険記録{/COLOR} 追加！{/INDENT}" />
+  <STR key="HELP_TITLE_3004" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}冒険記録{/COLOR} 追加！{/INDENT}" />
+  <STR key="HELP_TITLE_3005" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}冒険記録{/COLOR} 追加！{/INDENT}" />
+  <STR key="HELP_TITLE_3006" string="{BITMAP name=&quot;guidebook_icon_journal&quot; w=42 h=42}{CR h=5}{INDENT dent=50}冒険家の手帳{CR h=18}{COLOR r=220 g=220 b=100}冒険記録{/COLOR} 追加！{/INDENT}" />
+</maiet>

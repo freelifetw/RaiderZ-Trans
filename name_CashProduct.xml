@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<maiet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STR key="Cashproduct_DETAIL_DESC_" string="" />
+  <STR key="Cashproduct_NAME_" string="" />
+  <STR key="Cashproduct_SIMPLE_DESC_" string="" />
+  <STR key="Cashproduct_TAB1ST_DESC_" string="" />
+  <STR key="Cashproduct_TAB2ND_DESC_" string="" />
+</maiet>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<maiet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <STR key="FIELD_SENSOR_WARP_TITLE_101_1010530_1" string="[パーティー]聖ファーネル修道院" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_101_1010530_2" string="[パーティー]聖ファーネル修道院" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_101_1010530_3" string="[パーティー]エピック聖ファーネル修道院" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1031_1" string="[2人推奨]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1031_2" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1031_3" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1031_4" string="[パーティー]エピックレナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1032_1" string="[2人推奨]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1032_2" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1032_3" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1032_4" string="[パーティー]エピックレナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1033_1" string="[2人推奨]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1033_2" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1033_3" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1033_4" string="[パーティー]エピックレナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1034_1" string="[2人推奨]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1034_2" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1034_3" string="[パーティー]レナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_103_1034_4" string="[パーティー]エピックレナス神殿" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_11_1" string="[パーティー]呪われた納骨堂" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_11_2" string="[パーティー]エピック呪われた納骨堂" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_11_3" string="[1～2人推奨]呪われた納骨堂" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_12_1" string="[パーティー]呪われた納骨堂" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_12_2" string="[パーティー]エピック呪われた納骨堂" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_12_3" string="[1～2人推奨]呪われた納骨堂" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_8_1" string="[パーティー]汚染された庭園" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_8_2" string="[パーティー]エピック汚染された庭園" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_8_3" string="[ソロ]黄昏の庭園" />
+  <STR key="FIELD_SENSOR_WARP_TITLE_113_8_4" string="[1～2人推奨]汚染された庭園" />
+</maiet>
